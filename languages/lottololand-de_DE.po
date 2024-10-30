@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lottoland Earnings Figures Widget v0.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-28 12:08+0100\n"
+"PO-Revision-Date: 2014-03-28 11:11:59+0000\n"
+"Last-Translator: Frank Bültge <frank@bueltge.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: php/widget.php:74
+#@ lottololand
+msgid "Widget for the last earnings figures from Lottoland for WordPress."
+msgstr "Widget für die letzten Gewinnzahlen von Lottoland für WordPress."
+
+#: php/widget.php:78
+#@ lottololand
+msgid "Earnings Figures Widget"
+msgstr "Gewinnzahlen Widget"
+
+#: php/widget.php:158
+#: php/widget.php:238
+#@ lottololand
+msgid "LOTTO 6 aus 49"
+msgstr "LOTTO 6 aus 49"
+
+#: php/widget.php:161
+#: php/widget.php:245
+#: php/widget.php:252
+#@ lottololand
+msgid "PowerBall"
+msgstr ""
+
+#: php/widget.php:164
+#: php/widget.php:266
+#@ lottololand
+msgid "MegaMillions"
+msgstr ""
+
+#: php/widget.php:167
+#@ lottololand
+msgid "Eurojackpot"
+msgstr ""
+
+#: php/widget.php:170
+#@ lottololand
+msgid "Euromillionen"
+msgstr ""
+
+#: php/widget.php:204
+#: php/widget.php:223
+#, php-format
+#@ lottololand
+msgid "Lotto earnings from %s."
+msgstr "Gewinnzahlen vom %s."
+
+#: php/widget.php:207
+#@ lottololand
+msgid "Bonus"
+msgstr "Bonus"
+
+#: php/widget.php:219
+#@ lottololand
+msgid "Irish Lottery"
+msgstr "Irishe Lottery"
+
+#: php/widget.php:226
+#@ lottololand
+msgid "super speed"
+msgstr "Superzahl"
+
+#: php/widget.php:242
+#: php/widget.php:256
+#: php/widget.php:271
+#: php/widget.php:285
+#, php-format
+#@ lottololand
+msgid "Earnings figures from %s."
+msgstr "Gewinnzahlen von %s."
+
+#: php/widget.php:259
+#@ lottololand
+msgid "MegaBall &nbsp;"
+msgstr ""
+
+#: php/widget.php:274
+#@ lottololand
+msgid "Eurozahlen"
+msgstr ""
+
+#: php/widget.php:281
+#@ lottololand
+msgid "EuroJackpot"
+msgstr ""
+
+#: php/widget.php:288
+#@ lottololand
+msgid "Sternzahlen"
+msgstr ""
+
+#: php/widget.php:295
+#@ lottololand
+msgid "EuroMillionen"
+msgstr ""
+
+#: php/widget.php:407
+#@ lottololand
+msgid "No data available."
+msgstr "Keine Daten verfügbar."
+
+#: php/widget.php:432
+#@ lottololand
+msgid "» to the earnings rates"
+msgstr "» zu den Gewinnzahlen"
+
+#: php/widget.php:437
+#@ lottololand
+msgid "Winning numbers"
+msgstr "Gewinnernummer"
+
+#: php/widget.php:456
+#@ lottololand
+msgid "MegaPlier"
+msgstr ""
+
+#: php/widget.php:465
+#@ lottololand
+msgid "Winner"
+msgstr "Gewinner"
+
+#: php/widget.php:473
+#: php/widget.php:549
+#, php-format
+#@ lottololand
+msgid "Powered by %s"
+msgstr "Bereitgestellt durch %s"
+
+#: php/widget.php:517
+#@ lottololand
+msgid "Current winning numbers"
+msgstr "Aktuelle Gewinnzahlen"
+
+#: php/widget.php:525
+#@ lottololand
+msgid "Title:"
+msgstr "Titel:"
+
+#: php/widget.php:531
+#@ lottololand
+msgid "Lotteries:"
+msgstr "Lotterien:"
+
+#: php/widget.php:544
+#@ lottololand
+msgid "Include stylesheet?"
+msgstr "Layoutformatierung mit laden?"
+
+#. translators: plugin header field 'Name'
+#: gewinnzahlen.php:0
+#@ lottololand
+msgid "Lottoland Earnings Figures Widget"
+msgstr "Lottoland Gewinnzahlen Widget"
+
+#. translators: plugin header field 'Description'
+#: gewinnzahlen.php:0
+#@ lottololand
+msgid "The last earnings figures from lottoland.com for your front end."
+msgstr "Die letzten Gewinnzahlen von lottoland.com für dein Frontend."
+
+#. translators: plugin header field 'Author'
+#: gewinnzahlen.php:0
+#@ lottololand
+msgid "Lottoland"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: gewinnzahlen.php:0
+#@ lottololand
+msgid "0.0.2"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: gewinnzahlen.php:0
+#: php/widget.php:472
+#: php/widget.php:548
+#@ lottololand
+msgid "https://www.lottoland.co.uk/lottery-results"
+msgstr "https://www.lottoland.com/lottozahlen"
+

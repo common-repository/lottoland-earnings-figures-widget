@@ -1,0 +1,28 @@
+/**
+ * Default Lottozahlen Widget Style
+ *
+ * @version  03/22/2014
+ */
+
+.earningsfigures .lotto_numbers {
+
+	display: inline-block;
+}
+/* Format the earnings numbers to each ball */
+.earningsfigures .numbers-container .lotto_number_ball {
+
+	display: inline-block;
+	text-align: center;
+	background: #fff;
+	box-shadow: 0 0 0 3px #ccc inset;
+	border-radius: 50%;
+	height: 20px;
+	width: 20px;
+	margin-right: 5px;
+}
+
+/* Format the Superzahl */
+.earningsfigures .numbers-container .lotto_number_ball_extra {
+
+	box-shadow: 0 0 0 3px #ffcc0d inset;
+}
